@@ -1,0 +1,25 @@
+body
+{
+    background: rgb(32,32,32);
+background: linear-gradient(179deg, rgba(32,32,32,1) 0%, rgba(224,50,50,1) 6%, rgba(255,255,255,1) 27%, rgba(50,50,50,1) 59%, rgba(255,255,255,1) 87%);
+}
+  .container {
+    width: 300px;
+    border: 15px dashed red;
+    padding: 50px;
+    margin: 20px;
+    padding-left: 50px;
+    background-color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+     }
+  .forms {
+    padding-left: 25%;
+    color: white;
+  }
+  .h2 {
+    text-align: center;
+    color: white;
+  }
